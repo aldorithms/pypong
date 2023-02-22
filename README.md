@@ -1,1 +1,5 @@
 # pypong
+
+```
+pip install turtle
+```
